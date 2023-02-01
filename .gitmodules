@@ -8,3 +8,9 @@
 	url = https://github.com/pola-rs/r-polars
 	shallow = true
 	registered = true
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/arrow-nanoarrow
+	shallow = true
+	subdir = r
+	registered = false
