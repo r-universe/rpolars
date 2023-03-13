@@ -1,9 +1,0 @@
-[
-  {
-    "package": "nanoarrow",
-    "url": "https://github.com/apache/arrow-nanoarrow",
-    "via": ["rpolars"],
-    "subdir": "r",
-    "from": "rpolars"
-  }
-]

@@ -9,9 +9,3 @@
 	shallow = true
 	branch = hello_r_universe
 	registered = true
-[submodule "nanoarrow"]
-	path = nanoarrow
-	url = https://github.com/apache/arrow-nanoarrow
-	shallow = true
-	subdir = r
-	registered = false
