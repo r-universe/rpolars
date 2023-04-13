@@ -1,5 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rpolars/universe
 	shallow = true
 	branch = HEAD
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
+	shallow = true
+	branch = hello_r_universe
+	registered = true
