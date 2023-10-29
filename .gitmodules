@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rpolars/universe
+	url = https://github.com/rpolars/rpolars.r-universe.dev
 	branch = HEAD
 [submodule "polars"]
 	path = polars
