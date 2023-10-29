@@ -5,4 +5,4 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = main
+	branch = v0.9.0
