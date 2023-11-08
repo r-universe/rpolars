@@ -5,4 +5,8 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.9.0
+	branch = v0.10.0
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
