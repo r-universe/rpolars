@@ -5,7 +5,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.16.4
+	branch = v0.17.0
 [submodule "polarssql"]
 	path = polarssql
 	url = https://github.com/rpolars/r-polarssql
